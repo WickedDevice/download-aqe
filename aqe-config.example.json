@@ -1,0 +1,11 @@
+
+{
+  "apiKey": "YOUR_API_KEY",
+  "serial": "egg1234567890abcdef",
+  "start": "2026-11-01",
+  "end": "2026-11-09",
+  "columns": "temperature,humidity,co2",
+  "resolution": "PT1H",
+  "output": "aqe-data.csv"
+}
+
